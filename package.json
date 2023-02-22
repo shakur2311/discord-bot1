@@ -1,0 +1,27 @@
+{
+  "name": "discord-bot1",
+  "version": "1.0.0",
+  "description": "primer bot de discord testeando",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shakur2311/discord-bot1.git"
+  },
+  "keywords": [
+    "bot",
+    "discord"
+  ],
+  "author": "Shakur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shakur2311/discord-bot1/issues"
+  },
+  "homepage": "https://github.com/shakur2311/discord-bot1#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  }
+}
