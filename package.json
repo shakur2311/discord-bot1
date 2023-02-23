@@ -4,7 +4,8 @@
   "description": "primer bot de discord testeando",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -22,6 +23,9 @@
   "homepage": "https://github.com/shakur2311/discord-bot1#readme",
   "dependencies": {
     "discord.js": "^14.7.1",
-    "dotenv": "^16.0.3"
+    "dotenv": "^16.0.3",
+    "mysql2": "^3.1.2",
+    "nodemon": "^2.0.20",
+    "sequelize": "^6.28.2"
   }
 }
